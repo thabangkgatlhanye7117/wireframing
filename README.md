@@ -30,3 +30,13 @@ Key Elements of Wireframing
     see how the end user will interact with the application and gives developers ideas to design the interactions to achieve a
     particular goal for example call to action buttons and how users will know whether they have clicked or hovered over a button
     or not.
+
+ Types of Wireframes
+
+ There are typically two types of wireframes, low fidelity and high fidelity wireframes. Low fidelity is a simple sketched blueprint of a product
+ that has minimal design details and only focusing on the overall structure typically used at the early stages of design. High fidelity is a more detailed design blueprint  with  a specific layout and design elements typically used at the end of the design stage closer to the development stage.
+
+ ALX Airbnb
+ - The ALX airbnb is a high-fidelity wireframe because it has a complete and specific layout with all design detailed and content, it also has a
+   complete and specific navigation and functionality.
+ 
