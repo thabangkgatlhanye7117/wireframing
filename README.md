@@ -39,4 +39,19 @@ Key Elements of Wireframing
  ALX Airbnb
  - The ALX airbnb is a high-fidelity wireframe because it has a complete and specific layout with all design detailed and content, it also has a
    complete and specific navigation and functionality.
+
+ Wireframing Tool
+ There are several wireframing tools like:
+ 
+ Figma - Cloud-based and collaborative
+ Adobe XD - Smooth intergration with Photoshop,Illustrator.
+ Sketch(Mac only)- Best for designers in the Apple Ecosystem. 
+
+FIGMA FEATURES
+Cloud-Based - no installation needed
+Collaborative - Multiple people can edit the same file in real-time.
+Drag and Drop UI elements: Quickly add shapes, texts, buttons, amd wireframe components.
+Templates - Pre-Made wireframe kits.
+Vector Editing - Create clean, scalable designs.
+
  
