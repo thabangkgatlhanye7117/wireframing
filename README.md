@@ -60,9 +60,21 @@ Benefits of Wireframing in Software Development
 - Focuses on structure and content hierachy
 - Ensures everyone agrees on functionality and layout upfront
 
+
 How Wireframes guide design and team communication
 - Wireframes help designers, developers and stakeholders to stay aligned on page structure and key features,
   communicate ideas visually inbstead of relying on long explanations, provide a reference point for developers to
   understand what to build and for clients to approve before moving to detailed designing.
+
+ Wireframing in practice
+  - A team desinging a food deleivery app created a wireframes showing the checkout flow. During review they noticed
+    users had to through 5 screens to place an order which felt too long.
+
+    They simplified the process by combining steps in the wireframe stage
+    this reduced user drop-offs during checkout and improved order completion rates after launch
+
+Role of wireframing in user-friendly designs
+- Wireframing helps teams spot flaws early, refine user flow, and test ideas visually. By focusing on
+  structure before visuals, it ensures the final product is intuitive, efficient, and user-centered.
 
  
